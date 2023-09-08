@@ -83,42 +83,12 @@ Arguments can be:
 
 ## Supported Commands
 
-| Command | Operand 1 | Operand 2 | Operand 3 | Operand 4 | Operand 5 |
+| Command                                                             |
 |---------|-----------|-----------|-----------|-----------|-----------|
 | mov     |  add      | adc       |   sub     |  sbb      |    and    |
-| add     |           |           |           |           |           |
-| adc     |           |           |           |           |           |
-| sub     |           |           |           |           |           |
-| sbb     |           |           |           |           |           |
-| and     |           |           |           |           |           |
-| or      |           |           |           |           |           |
-| xor     |           |           |           |           |           |
-| dec     |           |           |           |           |           |
-| inc     |           |           |           |           |           |
-| cmp     |           |           |           |           |           |
-| test    |           |           |           |           |           |
-| xchg    |           |           |           |           |           |
-| xadd    |           |           |           |           |           |
-| imul    |           |           |           |           |           |
-| idiv    |           |           |           |           |           |
-| bsf     |           |           |           |           |           |
-| bsr     |           |           |           |           |           |
-| stc     |           |           |           |           |           |
-| clc     |           |           |           |           |           |
-| std     |           |           |           |           |           |
-| cld     |           |           |           |           |           |
-| jmp     |           |           |           |           |           |
-| jcc     |           |           |           |           |           |
-| shl     |           |           |           |           |           |
-| shr     |           |           |           |           |           |
-| neg     |           |           |           |           |           |
-| not     |           |           |           |           |           |
-| call    |           |           |           |           |           |
-| ret     |           |           |           |           |           |
-| syscall |           |           |           |           |           |
-| push    |           |           |           |           |           |
-| pop     |           |           |           |           |           |
-You can now populate this table with the relevant information for each command and its operands.
-
-
+|   or    |  xor      |  dec      |    inc    |  cmp      |  test     |
+|   xchg  |  xadd     |   imul    |    idiv   |   bsf     | bsr       |
+|   stc   |    clc    |     std   |    cld    |   jmp     |    jcc    |
+|   shr   |  shl      |   neg     |    not    |  call     |   ret     |
+| syscall |    push   |  pop      |           |           |           |
 
