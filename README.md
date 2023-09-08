@@ -83,7 +83,7 @@ Arguments can be:
 
 ## Supported Commands
 
-| Command                                                             |
+| Command |           |           |           |           |           |   
 |---------|-----------|-----------|-----------|-----------|-----------|
 | mov     |  add      | adc       |   sub     |  sbb      |    and    |
 |   or    |  xor      |  dec      |    inc    |  cmp      |  test     |
