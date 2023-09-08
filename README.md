@@ -14,41 +14,7 @@ This project implements an assembler and disassembler for Assembly64 in Python. 
 ### Prerequisites
 - Ubuntu and an Intel chip
 - VSCode, that is easier than terminal!
-
-## Commands Supported
-The supported commands include:
-- `mov`
-- `add`
-- `adc`
-- `sub`
-- `sbb`
-- `and`
-- `or`
-- `xor`
-- `dec`
-- `inc`
-- `cmp`
-- `test`
-- `xchg`
-- `xadd`
-- `imul`
-- `idiv`
-- `bsf`
-- `bsr`
-- `stc`
-- `clc`
-- `std`
-- `cld`
-- `shl`
-- `shr`
-- `neg`
-- `not`
-- `call`
-- `ret`
-- `syscall`
-- `push`
-- `pop`
-
+- 
 ## Supported Arguments
 Arguments can be:
 
