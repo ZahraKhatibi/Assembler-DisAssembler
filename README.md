@@ -1,7 +1,7 @@
 ## Assembler and Disassembler Implemented in Python and Assembly Languages
 ![ ](assembly.jpg)
 
-This project implements an assembler and disassembler for Assembly64 in Python. Assembly64 commands can be 8, 16, 32, or 64 bits with various addressing modes (specifically for 64-bit).This project focuses on designing an assembler and a disassembler for the Assembly Language. The assembler is responsible for converting asm64 commands into hexadecimal equivalents, while the disassembler converts binary strings back into asm64 commands. Both implementations are provided in both Python and Assembly Languages.
+This project implements an assembler and disassembler for Assembly64 in both Assembly and Python Languages. Assembly64 commands can be 8, 16, 32, or 64 bits with various addressing modes (specifically for 64-bit).This project focuses on designing an assembler and a disassembler for the Assembly Language. The assembler is responsible for converting asm64 commands into hexadecimal equivalents, while the disassembler converts binary strings back into asm64 commands. Both implementations are provided in both Python and Assembly Languages.
 
 ## Features
 - Both projects are thoroughly commented for easy comprehension.
